@@ -6,4 +6,4 @@ In this project, we aim to build a pipeline to allow users to generate music aut
 
 For generation models, Coconet by Magenta and MuseNet by OpenAI is combined. The inputs should be MIDI files.
 
-For the timbre transfer part, MIDI-DDSP by Magenta is used.
+For the timbre synthesis part, MIDI-DDSP by Magenta is used.
