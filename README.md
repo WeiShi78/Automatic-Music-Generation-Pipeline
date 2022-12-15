@@ -1,4 +1,4 @@
-# MIR-Final-Project-AMT
+# MIR-Final-Project
 
 This is the final project for the MIR course at NYU 2022 Fall.
 
